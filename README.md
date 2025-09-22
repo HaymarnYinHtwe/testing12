@@ -8,3 +8,4 @@ This is testing project.
 [![Releases](https://img.shields.io/github/release/HaymarnYinHtwe/testing12/all.svg?style=flat-square)](https://github.com/HaymarnYinHtwe/testing12/releases)
 
 
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/HaymarnYinHtwe/testing12/main.yml?branch=Develop&style=flat-square)
